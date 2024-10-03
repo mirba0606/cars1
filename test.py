@@ -1,0 +1,1 @@
+print('my names mirbek')
